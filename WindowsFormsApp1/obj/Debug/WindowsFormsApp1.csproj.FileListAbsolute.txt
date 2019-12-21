@@ -1,1 +1,73 @@
-H:\proga\TP2019Var10\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+H:\1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+H:\1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+H:\1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+H:\1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+H:\1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+H:\1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+H:\1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+H:\1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+H:\1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+H:\1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+H:\1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.User.resources
+H:\1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.CreateOrder.resources
+H:\1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.WareHouse.resources
+H:\1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.PManager.resources
+H:\1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.StateOrder.resources
+H:\1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Info.resources
+H:\1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.NewItem.resources
+H:\1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.StateManager.resources
+H:\1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.CustomerManager.resources
+H:\1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Questions.resources
+H:\1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Delivery.resources
+H:\1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Accountant.resources
+H:\1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Storekeeper.resources
+H:\1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UserQuestion.resources
+H:\1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Receipt.resources
+H:\1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Consumable.resources
+H:\1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Answer.resources
+H:\1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Login.resources
+E:\5 сем\TP\TP2019Var10\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\5 сем\TP\TP2019Var10\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\5 сем\TP\TP2019Var10\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\5 сем\TP\TP2019Var10\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\5 сем\TP\TP2019Var10\WindowsFormsApp1\bin\Debug\System.Buffers.dll
+E:\5 сем\TP\TP2019Var10\WindowsFormsApp1\bin\Debug\System.Memory.dll
+E:\5 сем\TP\TP2019Var10\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.dll
+E:\5 сем\TP\TP2019Var10\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\5 сем\TP\TP2019Var10\WindowsFormsApp1\bin\Debug\System.Text.Encodings.Web.dll
+E:\5 сем\TP\TP2019Var10\WindowsFormsApp1\bin\Debug\System.Text.Json.dll
+E:\5 сем\TP\TP2019Var10\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\5 сем\TP\TP2019Var10\WindowsFormsApp1\bin\Debug\System.ValueTuple.dll
+E:\5 сем\TP\TP2019Var10\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\5 сем\TP\TP2019Var10\WindowsFormsApp1\bin\Debug\System.Buffers.xml
+E:\5 сем\TP\TP2019Var10\WindowsFormsApp1\bin\Debug\System.Memory.xml
+E:\5 сем\TP\TP2019Var10\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.xml
+E:\5 сем\TP\TP2019Var10\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\5 сем\TP\TP2019Var10\WindowsFormsApp1\bin\Debug\System.Text.Encodings.Web.xml
+E:\5 сем\TP\TP2019Var10\WindowsFormsApp1\bin\Debug\System.Text.Json.xml
+E:\5 сем\TP\TP2019Var10\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\5 сем\TP\TP2019Var10\WindowsFormsApp1\bin\Debug\System.ValueTuple.xml
+E:\5 сем\TP\TP2019Var10\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Accountant.resources
+E:\5 сем\TP\TP2019Var10\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Answer.resources
+E:\5 сем\TP\TP2019Var10\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Consumable.resources
+E:\5 сем\TP\TP2019Var10\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.CustomerManager.resources
+E:\5 сем\TP\TP2019Var10\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Delivery.resources
+E:\5 сем\TP\TP2019Var10\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+E:\5 сем\TP\TP2019Var10\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.CreateOrder.resources
+E:\5 сем\TP\TP2019Var10\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Info.resources
+E:\5 сем\TP\TP2019Var10\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Login.resources
+E:\5 сем\TP\TP2019Var10\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.NewItem.resources
+E:\5 сем\TP\TP2019Var10\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.PManager.resources
+E:\5 сем\TP\TP2019Var10\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Questions.resources
+E:\5 сем\TP\TP2019Var10\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.StateManager.resources
+E:\5 сем\TP\TP2019Var10\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.StateOrder.resources
+E:\5 сем\TP\TP2019Var10\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Storekeeper.resources
+E:\5 сем\TP\TP2019Var10\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.User.resources
+E:\5 сем\TP\TP2019Var10\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UserQuestion.resources
+E:\5 сем\TP\TP2019Var10\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.WareHouse.resources
+E:\5 сем\TP\TP2019Var10\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\5 сем\TP\TP2019Var10\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\5 сем\TP\TP2019Var10\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+E:\5 сем\TP\TP2019Var10\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\5 сем\TP\TP2019Var10\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\5 сем\TP\TP2019Var10\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache

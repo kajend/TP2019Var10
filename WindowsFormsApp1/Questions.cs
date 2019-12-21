@@ -10,21 +10,17 @@ using System.Windows.Forms;
 
 namespace WindowsFormsApp1
 {
-    public partial class Receipt : Form
+    public partial class Questions : Form
     {
-        public Receipt()
+        public Questions()
         {
             InitializeComponent();
         }
 
         private void Button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Приходная оформлена");
-        }
-
-        private void textBox1_TextChanged(object sender, EventArgs e)
-        {
-
+            Answer newForm = new Answer();
+            newForm.Show();
         }
     }
 }

@@ -1,4 +1,6 @@
-﻿namespace WindowsFormsApp1
+﻿using WindowsFormsApp1.Services;
+
+namespace WindowsFormsApp1
 {
     partial class StateOrder
     {
@@ -30,6 +32,7 @@
         {
             this.button1 = new System.Windows.Forms.Button();
             this.button2 = new System.Windows.Forms.Button();
+            this.button3 = new System.Windows.Forms.Button();
             this.button4 = new System.Windows.Forms.Button();
             this.checkedListBox1 = new System.Windows.Forms.CheckedListBox();
             this.SuspendLayout();
@@ -58,6 +61,18 @@
             this.button2.UseVisualStyleBackColor = false;
             this.button2.Click += new System.EventHandler(this.Button2_Click);
             // 
+            // button3
+            // 
+            this.button3.BackColor = System.Drawing.Color.Thistle;
+            this.button3.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.button3.Location = new System.Drawing.Point(398, 48);
+            this.button3.Name = "button3";
+            this.button3.Size = new System.Drawing.Size(126, 87);
+            this.button3.TabIndex = 3;
+            this.button3.Text = "Задать вопрос по заказу";
+            this.button3.UseVisualStyleBackColor = false;
+            this.button3.Click += new System.EventHandler(this.Button3_Click);
+            // 
             // button4
             // 
             this.button4.BackColor = System.Drawing.Color.Thistle;
@@ -72,19 +87,36 @@
             // 
             // checkedListBox1
             // 
-            this.checkedListBox1.BackColor = System.Drawing.SystemColors.Menu;
-            this.checkedListBox1.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.checkedListBox1.CheckOnClick = true;
-            this.checkedListBox1.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.checkedListBox1.FormattingEnabled = true;
-            this.checkedListBox1.Items.AddRange(new object[] {
-            "заказ1",
-            "заказ2",
-            "заказ3"});
-            this.checkedListBox1.Location = new System.Drawing.Point(134, 47);
-            this.checkedListBox1.Name = "checkedListBox1";
-            this.checkedListBox1.Size = new System.Drawing.Size(120, 84);
-            this.checkedListBox1.TabIndex = 5;
+
+            //this.checkedListBox1.BackColor = System.Drawing.SystemColors.Menu;
+            //this.checkedListBox1.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            //this.checkedListBox1.CheckOnClick = true;
+            //this.checkedListBox1.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            //this.checkedListBox1.FormattingEnabled = true;
+            //this.checkedListBox1.Items.AddRange(new object[] {
+            //    "Заказ 1",
+            //    "Заказ 2",
+            //    "Заказ 3"
+            //});
+            //this.checkedListBox1.Location = new System.Drawing.Point(134, 47);
+            //this.checkedListBox1.Name = "checkedListBox1";
+            //this.checkedListBox1.Size = new System.Drawing.Size(120, 84);
+            //this.checkedListBox1.TabIndex = 5;
+
+            if (GetLoginNameData() != null)
+            {
+                this.checkedListBox1.BackColor = System.Drawing.SystemColors.Menu;
+                this.checkedListBox1.BorderStyle = System.Windows.Forms.BorderStyle.None;
+                this.checkedListBox1.CheckOnClick = true;
+                this.checkedListBox1.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+                this.checkedListBox1.FormattingEnabled = true;
+                this.checkedListBox1.Items.AddRange(GetLoginNameData());
+                this.checkedListBox1.Location = new System.Drawing.Point(134, 47);
+                this.checkedListBox1.Name = "checkedListBox1";
+                this.checkedListBox1.Size = new System.Drawing.Size(120, 84);
+                this.checkedListBox1.TabIndex = 5;
+            }
+
             // 
             // StateOrder
             // 
@@ -93,6 +125,7 @@
             this.ClientSize = new System.Drawing.Size(575, 325);
             this.Controls.Add(this.checkedListBox1);
             this.Controls.Add(this.button4);
+            this.Controls.Add(this.button3);
             this.Controls.Add(this.button2);
             this.Controls.Add(this.button1);
             this.Name = "StateOrder";
@@ -105,6 +138,7 @@
         #endregion
         private System.Windows.Forms.Button button1;
         private System.Windows.Forms.Button button2;
+        private System.Windows.Forms.Button button3;
         private System.Windows.Forms.Button button4;
         private System.Windows.Forms.CheckedListBox checkedListBox1;
     }
