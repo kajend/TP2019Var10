@@ -85,7 +85,7 @@ namespace WindowsFormsApp1
             //this.checkedListBox1.TabIndex = 16;
             //this.checkedListBox1.SelectedIndexChanged += new System.EventHandler(this.checkedListBox1_SelectedIndexChanged);
 
-            if (new AccountantPresenter(this).ShowOrder() != null)
+            if (new AccountantPresenter(this).ShowOrder().Length > 1)
             {
                 this.checkedListBox1.BackColor = System.Drawing.SystemColors.Menu;
                 this.checkedListBox1.BorderStyle = System.Windows.Forms.BorderStyle.None;

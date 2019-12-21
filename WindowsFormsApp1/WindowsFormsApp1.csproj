@@ -159,6 +159,7 @@
     <Compile Include="Presenter\AbstractPresenter.cs" />
     <Compile Include="Presenter\CustomerManagerPresenter.cs" />
     <Compile Include="Presenter\LoginPresenter.cs" />
+    <Compile Include="Presenter\StoreKeeperPresenter.cs" />
     <Compile Include="Presenter\WorkWithOrderPresenter.cs" />
     <Compile Include="ProductType.cs" />
     <Compile Include="Questions.cs">
@@ -174,6 +175,7 @@
     <Compile Include="Services\GetterGoods.cs" />
     <Compile Include="Services\IServiceContract.cs" />
     <Compile Include="Services\OrderService.cs" />
+    <Compile Include="Services\StoreKeeperService.cs" />
     <Compile Include="Services\UserService.cs" />
     <Compile Include="Services\WorkerWithOrderService.cs" />
     <Compile Include="StateManager.cs">
@@ -213,6 +215,7 @@
     <Compile Include="View\ICustomerManagerView.cs" />
     <Compile Include="View\ILogin.cs" />
     <Compile Include="View\IReceiptView.cs" />
+    <Compile Include="View\IStoreKeeperView.cs" />
     <Compile Include="View\IView.cs" />
     <Compile Include="View\IViewCheckBox.cs" />
     <Compile Include="View\IWorkWithOrder.cs" />
