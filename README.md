@@ -28,4 +28,7 @@ ____
 ![alt_tag](https://i9.wampi.ru/2020/01/03/sys.png)
 ![alt_tag](https://i9.wampi.ru/2020/01/03/mana.png)
 ![alt_tag](https://i8.wampi.ru/2020/01/03/za.png)
-
+____
+### Проектирование
+###
+![alt_tag](https://i9.wampi.ru/2020/01/03/gia.png)
