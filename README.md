@@ -32,3 +32,5 @@ ____
 ### Проектирование
 ###
 ![alt_tag](https://i9.wampi.ru/2020/01/03/gia.png)
+###
+![alt_tag](https://i9.wampi.ru/2020/01/03/diff.png)
