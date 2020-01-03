@@ -25,3 +25,7 @@ ____
 ###
 ![alt tag](https://i8.wampi.ru/2020/01/03/proc.png)
 ![alt_tag](https://i8.wampi.ru/2020/01/03/clie.png)
+![alt_tag](https://i9.wampi.ru/2020/01/03/sys.png)
+![alt_tag](https://i9.wampi.ru/2020/01/03/mana.png)
+![alt_tag](https://i8.wampi.ru/2020/01/03/za.png)
+
