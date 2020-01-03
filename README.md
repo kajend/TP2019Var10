@@ -24,3 +24,4 @@ ____
 ### Анализ требований
 ###
 ![alt tag](https://i8.wampi.ru/2020/01/03/proc.png)
+![alt_tag](https://i8.wampi.ru/2020/01/03/clie.png)
